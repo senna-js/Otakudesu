@@ -28,7 +28,7 @@ const mainController = {
         };
 
         const data = {
-          message: "WAJIK ANIME API IS READY 🔥🔥🔥",
+          message: "API IS READY 🔥🔥🔥",
           sources: Object.values(animeSources),
         };
 
